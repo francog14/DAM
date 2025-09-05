@@ -1,5 +1,5 @@
 //DESARROLLO ORIENTADO A OBJETOS
-
+/*
 fun main (){
     val charmander = Pokemon("CHARMANDER", 40, 80)
     val mewtwo = Pokemon ("MEWTWO", 300, 450)
@@ -32,4 +32,4 @@ class Pokemon (
             println("$nombre SE HA DEBILITADO !!!")
         }
     }
-}
+}*/
